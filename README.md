@@ -9,7 +9,7 @@ This project provisions a production-ready, highly available AWS web architectur
 The infrastructure is deployed across two Availability Zones (AZs) to ensure fault tolerance and features a strict public/private subnet topology to secure backend compute resources.
 
 ## Architecture Diagram
-*(Upload your architecture image to your GitHub repo and update this link: `![Architecture Diagram](./aws_ha.jpg)`)*
+![Architecture Diagram](./aws_ha.jpg)
 
 ## Key Features & Engineering Principles
 * **High Availability & Fault Tolerance:** Deployed across multiple Availability Zones with an Auto Scaling Group to seamlessly handle traffic spikes and instance failures.
