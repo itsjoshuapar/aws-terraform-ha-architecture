@@ -60,4 +60,4 @@ terraform destroy
 ## Connect with Me
 **JOSHUA PAR**  
 *Cloud & DevOps Enthusiast*  
-[Connect with me on LinkedIn](https://www.linkedin.com/in/joshuapaulopar/) | [View My Resume](https://drive.google.com/file/d/1cXNsqSNWcOiXX8ajFs5h1NQri_nAZZ3A/view?usp=sharing)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/joshuapaulopar/) | [View My Resume](https://docs.google.com/document/d/1UZJ3XZnAnbkQL6kQSuu-pFv8L7cN7g8P/edit?usp=sharing&ouid=103543603500575654268&rtpof=true&sd=true)
